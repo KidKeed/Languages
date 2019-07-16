@@ -1,0 +1,20 @@
+{
+  "LANGUAGE_INFO": {
+    "NAME": "Romanian",
+    "ENGLISH_CODE:": "ro",
+    "TRANSLATED_BY": "VastLands | Keed"
+  },
+  "SERVER_JOINED": "Sunteți conectat (ă) {SERVER}",
+  "COMPONENTS": {
+    "BAR_ITEM_NAMES": {
+      "MY_PROFILE": "Profilul meu",
+      "SERVERS": "Servere ",
+      "COSMETICS": "Produse cosmetice",
+      "HIDE_PLAYER": "Ascunde Jucătorul",
+      "SHOW_PLAYER": "Afișați jucătorul"
+    },
+    "PLAYER_VISIBILITY_ON": "Toți jucătorii sunt acum ascunși!",
+    "PLAYER_VISIBILITY_OFF": "Jucătorii nu mai sunt ascunși!"
+  },
+  "PORTAL_OPENING": "Deschiderea meniului ..."
+}
